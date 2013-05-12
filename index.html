@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Hello World</title>
+    </head>
+    <body>
+        <h1 class="one two three">Hello World</h1>
+    <script src="build/build.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      var hasClass = require("has-class");
+      var h1 = document.querySelector("h1");
+      h1.innerHTML = hasClass(h1, "two")? "I have class two!"
+                                        : "I don't have class two...";
+    </script>
+    </body>
+</html>
+
