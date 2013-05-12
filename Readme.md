@@ -1,9 +1,9 @@
 
 # has-class
 
-    Checks to see if a perticular className exists on an element
+  Checks to see if a perticular className exists on an element
 
-    This module exports the equivalent `hasClass` function in jQuery
+  This module exports the equivalent `hasClass` function in jQuery
 
 ## Installation
 
