@@ -1,0 +1,13 @@
+{
+  "name": "jb55-has-class",
+  "description": "checks to see if a perticular className exists on an element",
+  "version": "0.0.1",
+  "keywords": [
+    "dom",
+    "hasClass",
+    "className"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
